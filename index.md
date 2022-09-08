@@ -4,3 +4,6 @@
 #### This is the h4 heading
 ##### This is the h5 heading
 ###### This is the h6 heading
+
+
+![Image of Yaktocat](https://octodex.github.com/images/mona-the-rivetertocat.png)
